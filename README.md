@@ -3,8 +3,8 @@
  
  # Books
  A couple books and reference materials I used to create this repo:
- Machine Learning Engineering [link](www.mlebook.com/wiki/doku.php)
- Machine Learning Yearning [link](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
+ - Machine Learning Engineering [link](www.mlebook.com/wiki/doku.php)
+ - Machine Learning Yearning [link](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
  
  # Libraries Overview
  The following libraries will be used in these notebooks because they are popular, comprehensive and most used in teaching videos and other materials I have come across:
